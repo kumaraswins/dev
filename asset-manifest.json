@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/dev/static/css/main.d4c1e18a.chunk.css",
+    "main.js": "/dev/static/js/main.5d7846d4.chunk.js",
+    "main.js.map": "/dev/static/js/main.5d7846d4.chunk.js.map",
+    "runtime-main.js": "/dev/static/js/runtime-main.b01edf89.js",
+    "runtime-main.js.map": "/dev/static/js/runtime-main.b01edf89.js.map",
+    "static/js/2.8c6557f3.chunk.js": "/dev/static/js/2.8c6557f3.chunk.js",
+    "static/js/2.8c6557f3.chunk.js.map": "/dev/static/js/2.8c6557f3.chunk.js.map",
+    "static/css/3.879e9400.chunk.css": "/dev/static/css/3.879e9400.chunk.css",
+    "static/js/3.1d8401a9.chunk.js": "/dev/static/js/3.1d8401a9.chunk.js",
+    "static/js/3.1d8401a9.chunk.js.map": "/dev/static/js/3.1d8401a9.chunk.js.map",
+    "static/css/4.54df59d4.chunk.css": "/dev/static/css/4.54df59d4.chunk.css",
+    "static/js/4.ee5a8a5a.chunk.js": "/dev/static/js/4.ee5a8a5a.chunk.js",
+    "static/js/4.ee5a8a5a.chunk.js.map": "/dev/static/js/4.ee5a8a5a.chunk.js.map",
+    "index.html": "/dev/index.html",
+    "precache-manifest.490242bb8f14d787792e09e2ecd537ff.js": "/dev/precache-manifest.490242bb8f14d787792e09e2ecd537ff.js",
+    "service-worker.js": "/dev/service-worker.js",
+    "static/css/3.879e9400.chunk.css.map": "/dev/static/css/3.879e9400.chunk.css.map",
+    "static/css/4.54df59d4.chunk.css.map": "/dev/static/css/4.54df59d4.chunk.css.map",
+    "static/css/main.d4c1e18a.chunk.css.map": "/dev/static/css/main.d4c1e18a.chunk.css.map",
+    "static/js/2.8c6557f3.chunk.js.LICENSE.txt": "/dev/static/js/2.8c6557f3.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/dev/static/media/Montserrat-Regular.ee653992.ttf",
+    "static/media/an.png": "/dev/static/media/an.5f948fd5.png",
+    "static/media/contactMail.webp": "/dev/static/media/contactMail.68e84138.webp",
+    "static/media/cor.png": "/dev/static/media/cor.5b98900a.png",
+    "static/media/developerActivity.svg": "/dev/static/media/developerActivity.59389695.svg",
+    "static/media/inv.png": "/dev/static/media/inv.0161b2be.png",
+    "static/media/jpg.jpeg": "/dev/static/media/jpg.276c694a.jpeg",
+    "static/media/logo.svg": "/dev/static/media/logo.25bf045c.svg",
+    "static/media/manOnTable.svg": "/dev/static/media/manOnTable.52be3144.svg",
+    "static/media/npc.png": "/dev/static/media/npc.61e5d011.png",
+    "static/media/skill.svg": "/dev/static/media/skill.34409398.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b01edf89.js",
+    "static/js/2.8c6557f3.chunk.js",
+    "static/css/main.d4c1e18a.chunk.css",
+    "static/js/main.5d7846d4.chunk.js"
+  ]
+}
