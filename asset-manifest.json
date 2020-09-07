@@ -1,24 +1,24 @@
 {
   "files": {
-    "main.css": "/dev/static/css/main.d4c1e18a.chunk.css",
-    "main.js": "/dev/static/js/main.5d7846d4.chunk.js",
-    "main.js.map": "/dev/static/js/main.5d7846d4.chunk.js.map",
-    "runtime-main.js": "/dev/static/js/runtime-main.b01edf89.js",
-    "runtime-main.js.map": "/dev/static/js/runtime-main.b01edf89.js.map",
+    "main.css": "/dev/static/css/main.53ccd0ed.chunk.css",
+    "main.js": "/dev/static/js/main.1cbd558a.chunk.js",
+    "main.js.map": "/dev/static/js/main.1cbd558a.chunk.js.map",
+    "runtime-main.js": "/dev/static/js/runtime-main.a7f27cbe.js",
+    "runtime-main.js.map": "/dev/static/js/runtime-main.a7f27cbe.js.map",
     "static/js/2.8c6557f3.chunk.js": "/dev/static/js/2.8c6557f3.chunk.js",
     "static/js/2.8c6557f3.chunk.js.map": "/dev/static/js/2.8c6557f3.chunk.js.map",
     "static/css/3.879e9400.chunk.css": "/dev/static/css/3.879e9400.chunk.css",
     "static/js/3.1d8401a9.chunk.js": "/dev/static/js/3.1d8401a9.chunk.js",
     "static/js/3.1d8401a9.chunk.js.map": "/dev/static/js/3.1d8401a9.chunk.js.map",
     "static/css/4.54df59d4.chunk.css": "/dev/static/css/4.54df59d4.chunk.css",
-    "static/js/4.ee5a8a5a.chunk.js": "/dev/static/js/4.ee5a8a5a.chunk.js",
-    "static/js/4.ee5a8a5a.chunk.js.map": "/dev/static/js/4.ee5a8a5a.chunk.js.map",
+    "static/js/4.9d0876f9.chunk.js": "/dev/static/js/4.9d0876f9.chunk.js",
+    "static/js/4.9d0876f9.chunk.js.map": "/dev/static/js/4.9d0876f9.chunk.js.map",
     "index.html": "/dev/index.html",
-    "precache-manifest.490242bb8f14d787792e09e2ecd537ff.js": "/dev/precache-manifest.490242bb8f14d787792e09e2ecd537ff.js",
+    "precache-manifest.ac07be9e193e376b3d15249ce9d53045.js": "/dev/precache-manifest.ac07be9e193e376b3d15249ce9d53045.js",
     "service-worker.js": "/dev/service-worker.js",
     "static/css/3.879e9400.chunk.css.map": "/dev/static/css/3.879e9400.chunk.css.map",
     "static/css/4.54df59d4.chunk.css.map": "/dev/static/css/4.54df59d4.chunk.css.map",
-    "static/css/main.d4c1e18a.chunk.css.map": "/dev/static/css/main.d4c1e18a.chunk.css.map",
+    "static/css/main.53ccd0ed.chunk.css.map": "/dev/static/css/main.53ccd0ed.chunk.css.map",
     "static/js/2.8c6557f3.chunk.js.LICENSE.txt": "/dev/static/js/2.8c6557f3.chunk.js.LICENSE.txt",
     "static/media/index.css": "/dev/static/media/Montserrat-Regular.ee653992.ttf",
     "static/media/an.png": "/dev/static/media/an.5f948fd5.png",
@@ -33,9 +33,9 @@
     "static/media/skill.svg": "/dev/static/media/skill.34409398.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.b01edf89.js",
+    "static/js/runtime-main.a7f27cbe.js",
     "static/js/2.8c6557f3.chunk.js",
-    "static/css/main.d4c1e18a.chunk.css",
-    "static/js/main.5d7846d4.chunk.js"
+    "static/css/main.53ccd0ed.chunk.css",
+    "static/js/main.1cbd558a.chunk.js"
   ]
 }
